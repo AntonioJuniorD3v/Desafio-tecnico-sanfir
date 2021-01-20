@@ -1,6 +1,6 @@
 # Desafio Técnico Sanfir
 
-O objetivo deste desafio é desenvolver um sistema Web para a cadastro e gerência de pessoas. Para o desenvolvimento devem ser utilizadas as bibliotecas react e react-router, para o back-end dê preferência ao Node.js ou sistemas severless como AWS, Azure ou GCP.
+O objetivo deste desafio foi desenvolver um sistema Web para a cadastro e gerência de pessoas. Para o desenvolvimento foi utilizado as bibliotecas react e react-router, para o back-end Node.js utilizando o framework AdonisJS.
 
 ## 🚀 Começando
 
@@ -66,10 +66,6 @@ yarn start
 * [date-fns](https://date-fns.org/) - Fornece o mais abrangente, mas simples e conjunto de ferramentas consistentes para a manipulação de datas.
 * [Axios](https://github.com/axios/axios) - Cliente HTTP baseado em promessa para o navegador e node.js
 * [React Router](https://reactrouter.com/) - O React Router é uma coleção de componentes de navegação que se compõem declarativamente com seu aplicativo.
-
-
-## 📄 Screenshots do projeto
-
 
 ## 📄 Licença
 
