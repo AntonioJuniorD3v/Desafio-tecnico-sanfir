@@ -13,7 +13,7 @@ Node.js
 Yarn
 ```
 
-### 🔧 Backend
+### 💻 Backend
 
 Abra a pasta backend:
 
@@ -35,7 +35,7 @@ node server.js
 
 Se estiver tudo certo, o sistema irá funcionar na url local: http://localhost:3333
 
-### 🔧 Frontend
+### 💻 Frontend
 
 Abra a pasta frontend:
 
