@@ -4,33 +4,36 @@ O objetivo deste desafio é desenvolver um sistema Web para a cadastro e gerênc
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento.
 
 ### 📋 Pré-requisitos
 
 ```
 Node.js
+Yarn
 ```
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Abra a pasta backend:
 
 ```
-Dar exemplos
+cd backend
 ```
 
-E repita:
+Execute o comando abaixo para instalar as dependências:
 
 ```
-Até finalizar
+yarn
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+depois digite o comando abaixo para executar o projeto:
+
+```
+node server.js
+```
+
+Se estiver tudo certo, o sistema irá funcionar na url local: http://localhost:3333
 
 ## 📦 Desenvolvimento
 
