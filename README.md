@@ -13,7 +13,7 @@ Node.js
 Yarn
 ```
 
-### 🔧 Instalação
+### 🔧 Backend
 
 Abra a pasta backend:
 
@@ -35,16 +35,37 @@ node server.js
 
 Se estiver tudo certo, o sistema irá funcionar na url local: http://localhost:3333
 
-## 📦 Desenvolvimento
+### 🔧 Frontend
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Abra a pasta frontend:
 
-## 🛠️ Construído com
+```
+cd frontend
+```
 
-Mencione as ferramentas que você usou para criar seu projeto
+Execute o comando abaixo para instalar as dependências:
+
+```
+yarn
+```
+
+depois digite o comando abaixo para executar o projeto:
+
+```
+yarn start
+```
+
+## 🛠️ Backend Construído com
+
+* [AdonisJS](https://adonisjs.com/) - O framework backend utilizado
+
+## 🛠️ Frontend Construído com
 
 * [ReactJS](https://pt-br.reactjs.org/) - A biblioteca frontend utilizada
-* [AdonisJS](https://adonisjs.com/) - O framework backend utilizado
+* [Material UI](https://material-ui.com/pt/) - Biblioteca de componentes React para um desenvolvimento ágil e fácil
+* [date-fns](https://date-fns.org/) - Fornece o mais abrangente, mas simples e conjunto de ferramentas consistentes para a manipulação de datas.
+* [Axios](https://github.com/axios/axios) - Cliente HTTP baseado em promessa para o navegador e node.js
+* [React Router](https://reactrouter.com/) - O React Router é uma coleção de componentes de navegação que se compõem declarativamente com seu aplicativo.
 
 ## 📄 Licença
 
