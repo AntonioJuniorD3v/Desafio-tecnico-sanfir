@@ -67,16 +67,13 @@ yarn start
 * [Axios](https://github.com/axios/axios) - Cliente HTTP baseado em promessa para o navegador e node.js
 * [React Router](https://reactrouter.com/) - O React Router é uma coleção de componentes de navegação que se compõem declarativamente com seu aplicativo.
 
+
+## 📄 Screenshots do projeto
+
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
 
 ---
 ⌨️ com ❤️ por [Júnior Moreno](https://gist.github.com/juniormoreno) 😊
